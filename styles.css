@@ -1,13 +1,17 @@
 h1 {
     text-align: center;
-    color: white;
+    color: red;
     background-color:black;
+    border: 25px;
+    border-color: red;
+    border-radius: 10px;
+    
 
 }
 
 body { 
 
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     
 }
 
@@ -18,4 +22,29 @@ p.text {
 
 }
 
+#titre {
 
+    text-align: center;
+    font-size:  3em;
+
+
+}
+nav {
+	background-color: #333333;
+	padding: 1em;
+
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+}
+li {
+	margin-right: 1em;
+    font-size:  2em;
+
+
+}
