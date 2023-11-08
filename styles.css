@@ -12,6 +12,7 @@ h1 {
 body { 
 
     background-color: rgb(255, 255, 255);
+
     
 }
 
@@ -41,10 +42,10 @@ ul {
 	list-style-type: none;
 	display: flex;
 	justify-content: center;
+    
 }
 li {
 	margin-right: 1em;
     font-size:  2em;
-
-
+    color:white;
 }
