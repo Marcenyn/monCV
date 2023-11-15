@@ -1,25 +1,16 @@
-h1 {
-    text-align: center;
-    color: red;
-    background-color:black;
-    border: 25px;
-    border-color: red;
-    border-radius: 10px;
-    
-
-}
-
 body { 
 
-    background-color: rgb(255, 255, 255);
+    background-image: url(image/fond.avif);
+    background-size: cover;
+    
     
 }
-
-
 #titre {
 
     text-align: center;
     font-size:  3em;
+    color: aliceblue;
+
 
 
 }
@@ -36,9 +27,19 @@ ul {
 	display: flex;
 	justify-content: center;
     
+    
 }
 li {
 	margin-right: 1em;
     font-size:  2em;
-    color:white;
+    
+}
+a{
+    color: aliceblue;
+}
+#createur{
+
+    margin-top:5%;
+    color: aliceblue;
+
 }
