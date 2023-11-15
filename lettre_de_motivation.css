@@ -1,10 +1,23 @@
-h1 {
+.ecriture{
+
+    color: black;
+    text-indent: 5%;
+    font-size: 125%;
+}
+#titre {
+
+    color: black;
+    text-indent: 5%;
+    font-size: 140%;
+}
+#entete {
+
+    margin-left: 25%;
+
+}
+#texte {
     text-align: center;
-    color: red;
-    background-color:black;
-    border: 25px;
-    border-color: red;
-    border-radius: 10px;
-    
+    margin-left: 25%;
+    margin-right: 25%;
 
 }
